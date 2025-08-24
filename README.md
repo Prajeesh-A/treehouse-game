@@ -11,6 +11,7 @@
 - **Custom Treehouse Design**: Choose from different parts to design your unique treehouse.
 - **Relaxing Gameplay**: No time limits or pressure—build at your own pace.
 - **Dynamic Environment**: Enjoy changing weather and day-night cycles as you build.
+- **Futuristic Mode**: Toggle a neon, high-tech theme for a fresh look.
 
 ---
 
